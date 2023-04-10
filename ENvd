@@ -1,0 +1,49 @@
+{
+  "projectName": "envd",
+  "projectOwner": "tensorchord",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 70,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributorsSortAlphabetically": true,
+  "contributors": [
+    {
+      "login": "gaocegege",
+      "name": "Ce Gao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5100735?v=4",
+      "profile": "http://gaocegege.com/Blog",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "terrytangyuan",
+      "name": "Yuan Tang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4269898?v=4",
+      "profile": "https://terrytangyuan.github.io/about/",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "kemingy",
+      "name": "Keming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12974685?v=4",
+      "profile": "https://kemingy.github.io/",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "infra"
+      ]
+    }
